@@ -26,8 +26,9 @@ namespace Setup
                 if (!Directory.Exists(txt_location.Text))
                 {
                     Directory.CreateDirectory(txt_location.Text);
+                   
                 }
-                File.Copy(Environment.CurrentDirectory + "\\PasteAsFileGUI.exe", txt_location.Text + "\\PasteAsFileGUI.exe");
+                File.Copy(Environment.CurrentDirectory + "\\PasteAsFileGUI.exe", txt_location.Text + "\\PasteAsFileGUI.exe",true);
                 var key = Microsoft.Win32.Registry.ClassesRoot.OpenSubKey("Directory\\Background\\shell", true);
                 key.CreateSubKey("Paste as File").CreateSubKey("command").SetValue("", txt_location.Text + "\\PasteAsFileGUI.exe %V");
                 MessageBox.Show("Installation successful!");
