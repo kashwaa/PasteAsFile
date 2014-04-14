@@ -137,7 +137,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Paste";
-            this.Text = "Paste";
+            this.Text = "Paste As File";
             this.Load += new System.EventHandler(this.Paste_Load);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
