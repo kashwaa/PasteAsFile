@@ -1,0 +1,9 @@
+D:\sandbox\PasteAsFile\Setup\bin\Debug\Setup.exe
+D:\sandbox\PasteAsFile\Setup\bin\Debug\Setup.pdb
+D:\sandbox\PasteAsFile\Setup\obj\x86\Debug\Setup.Form1.resources
+D:\sandbox\PasteAsFile\Setup\obj\x86\Debug\Setup.Properties.Resources.resources
+D:\sandbox\PasteAsFile\Setup\obj\x86\Debug\Setup.csproj.GenerateResource.Cache
+D:\sandbox\PasteAsFile\Setup\obj\x86\Debug\Setup.exe
+D:\sandbox\PasteAsFile\Setup\obj\x86\Debug\Setup.pdb
+D:\sandbox\PasteAsFile\Setup\bin\Debug\PasteAsFileGUI.exe
+D:\sandbox\PasteAsFile\Setup\bin\Debug\Setup.exe.config

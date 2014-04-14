@@ -156,5 +156,10 @@ namespace PasteAsFileGUI
             Save();
             Environment.Exit(0);
         }
+
+        private void btn_cancel_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
     }
 }
