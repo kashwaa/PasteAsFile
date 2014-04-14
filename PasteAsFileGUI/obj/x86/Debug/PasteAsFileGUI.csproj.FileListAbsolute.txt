@@ -1,0 +1,7 @@
+D:\sandbox\PasteAsFile\PasteAsFileGUI\bin\Debug\PasteAsFileGUI.exe
+D:\sandbox\PasteAsFile\PasteAsFileGUI\bin\Debug\PasteAsFileGUI.pdb
+D:\sandbox\PasteAsFile\PasteAsFileGUI\obj\x86\Debug\PasteAsFileGUI.Paste.resources
+D:\sandbox\PasteAsFile\PasteAsFileGUI\obj\x86\Debug\PasteAsFileGUI.Properties.Resources.resources
+D:\sandbox\PasteAsFile\PasteAsFileGUI\obj\x86\Debug\PasteAsFileGUI.csproj.GenerateResource.Cache
+D:\sandbox\PasteAsFile\PasteAsFileGUI\obj\x86\Debug\PasteAsFileGUI.exe
+D:\sandbox\PasteAsFile\PasteAsFileGUI\obj\x86\Debug\PasteAsFileGUI.pdb
